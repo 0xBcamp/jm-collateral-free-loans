@@ -1,4 +1,4 @@
-# Collateral-Free Small Loans 🤝 Team
+# A peer-to-peer lending/borrowing platform
 
 ## Problem Statement
 
